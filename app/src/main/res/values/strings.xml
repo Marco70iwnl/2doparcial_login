@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">2doparciallogin</string>
+    <string name="usuario">usuario</string>
+    <string name="contraseña">contraseña</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="todo" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="pizzas">pizzas</string>
+    <string name="chescos">chescos</string>
+    <string name="nuevaorden">TODO</string>
+    <string name="nueva_orden">Nueva orden</string>
+    <string name="estimado_user_has_seleccionado_la_pizza_pizza_seleccionada_acompa_ada_de_la_bebida_bebida_seleccionada_su_total_a_pagar_es_total_a_pagar">“Estimado {user} has seleccionado la pizza: {pizza seleccionada} acompañada de la bebida {bebida seleccionada} su total a pagar es {total a pagar}”</string>
+    <string name="editar_orden">Editar Orden</string>
+    <string name="elegir_limonada">Elegir limonada</string>
+    <string name="elegir_coca_cola">Elegir coca cola</string>
+    <string name="con_que_refresco_desea_acompa_ar_su_pizza">¿Con que refresco desea acompañar su pizza?</string>
+    <string name="limonada">limonada</string>
+    <string name="elegir_horchata">Elegir horchata</string>
+
+    <string name="coca">coca</string>
+    <string name="horchata">horchata</string>
+    <string name="todo2">TODO2</string>
+    <string name="todo1">TODO1</string>
+    <string name="que_pizza_desea">¿QUE PIZZA DESEA?</string>
+    <string name="elegir_pizza_champi_ones">Elegir (pizza champiñones)</string>
+    <string name="elegir_pizzas_con_pi_a">Elegir (pizzas con piña)</string>
+    <string name="elegir_pizza_peperoni">Elegir (pizza peperoni)</string>
+    <string name="finalizar_orden">Finalizar orden</string>
+    <string name="hawaiana">hawaiana</string>
+    <string name="peperoni">peperoni</string>
+    <string name="champiniones">champiniones</string>
+
+
+</resources>

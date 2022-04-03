@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/img_3">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:contentDescription="@string/todo1"
+        app:srcCompat="@drawable/img" />
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:contentDescription="@string/todo2"
+        app:srcCompat="@drawable/img_6" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="138dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="204dp"
+        android:text="@string/chescos"
+        tools:text="chescos" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+
+        android:layout_marginStart="204dp"
+        android:text="@string/pizzas"
+        tools:text="pizzas" />
+
+</RadioGroup>
